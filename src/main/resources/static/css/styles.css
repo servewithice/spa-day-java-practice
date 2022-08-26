@@ -24,3 +24,38 @@ table {
             padding: 10px;
             text-align: center;
 }
+
+footer {
+    margin: auto;
+    width: 50%;
+    background-color: white;
+}
+.polishColor {
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+
+#pink {
+    background-color: HotPink;
+}
+
+#red {
+    background-color: red;
+}
+
+#ivory {
+    background-color: HoneyDew;
+}
+
+#coral {
+    background-color: coral;
+}
+
+#periwinkle {
+    background-color: CornflowerBlue;
+}
+
+#deepPurple {
+    background-color: DarkViolet;
+}
